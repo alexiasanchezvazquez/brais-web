@@ -1,0 +1,42 @@
+---
+title: "Brais Abelenda Calvo"
+subtitle: "PhD Student, Universidade de Santiago de Compostela<br>Project Manager, Cátedra Economía de la Ciberseguridad USC-INCIBE"
+image: images/foto.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:brais.abelenda.calvo@usc.es
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/braisabelendacalvo/
+---
+
+## Research interests
+
+Economics of cybersecurity · Artificial intelligence · Firm strategy
+
+## Education
+
+**PhD in Economic Analysis and Business Strategy**, Universidade de Santiago de Compostela\
+[2025–present]{.text-muted}
+
+**Master's in International Business and Foreign Trade**, IFFE Business School\
+[2024–2025]{.text-muted}
+
+**Master's in Logistics and Supply Chain Management**, Universidad Isabel I\
+[2024–2025]{.text-muted}
+
+**MBA, Master's in Business Administration**, Universidade de Santiago de Compostela\
+[2023–2024 · Master's thesis with honours]{.text-muted}
+
+**Bachelor's in Economics**, Universidade de Santiago de Compostela\
+[2019–2023]{.text-muted}
+
+## Experience
+
+**Project Manager**, Cátedra Economía de la Ciberseguridad USC-INCIBE (CECOCIB), Universidade de Santiago de Compostela\
+[Nov 2024–present]{.text-muted}

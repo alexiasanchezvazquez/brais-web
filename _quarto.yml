@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "files/*"
+
+website:
+  title: "Brais Abelenda Calvo"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    lang: en
